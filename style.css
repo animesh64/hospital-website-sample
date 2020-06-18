@@ -1,0 +1,269 @@
+.site-banner {
+  background-image: url("bannerimg.jpg");
+}
+.headerimg img {
+  height: 5rem;
+}
+.hamburger {
+  border: 2px solid tomato;
+  color: white;
+  background-color: tomato;
+  border-radius: 50px;
+  padding-left: 1.7rem;
+  padding-top: 1.1rem;
+  transform: scale(0.7);
+}
+.site-banner .container .row {
+  margin-bottom: 2rem;
+  padding-top: 1rem;
+}
+form {
+  background-color: rgba(0, 0, 0, 0.6);
+  border: 1px solid black;
+  color: white;
+  padding: 1.5rem;
+  border-radius: 20px;
+  transform: scale(0.8);
+  margin-top: -3rem;
+  margin-bottom: 8rem;
+  margin-left: 10rem;
+  margin-right: -7rem;
+}
+.slogan {
+  margin-top: 10rem;
+  font-weight: 600;
+  font-size: 50px;
+  margin-left: 3rem;
+  color: rgb(23, 116, 238);
+  opacity: 0.7;
+  line-height: 3rem;
+  font-style: italic;
+}
+.form-text {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-weight: 300;
+  font-size: 25px;
+}
+button {
+  margin: 0.2rem 8rem;
+  border-radius: 20px !important;
+}
+
+.card-header {
+  text-align: center;
+  transform-origin: 24px 24px;
+  transform: rotate(90deg);
+  width: 13rem;
+  border-radius: 15px;
+  color: white;
+  background-color: rgb(58, 180, 228);
+}
+.card-body {
+  padding-left: 6rem;
+}
+.card {
+  width: 23rem;
+  height: 13rem;
+  background-color: rgb(248, 254, 255);
+}
+.initial {
+  margin-left: 9rem;
+}
+#consultation {
+  background-color: rgb(240, 255, 255);
+  padding-bottom: 2rem;
+}
+#consultation .container .row {
+  margin-left: 1.5rem;
+}
+#consultation .row img {
+  width: 280px;
+  height: 300px;
+  border-radius: 10px;
+  position: relative;
+}
+.overlay .button a {
+  position: absolute;
+  top: 80%;
+  left: 27%;
+  color: white;
+  background-color: rgb(0, 0, 0);
+
+  font-size: 16px;
+  padding: 3px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  text-align: center;
+  opacity: 0.8;
+}
+.overlay .button a:hover {
+  background-color: black;
+}
+#consultationtxt {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 35px;
+  font-weight: 600;
+  letter-spacing: -1px;
+}
+.underline {
+  width: 100px;
+  height: 5px;
+  color: orangered;
+  background-color: orangered;
+  margin-bottom: 2rem;
+  margin-left: 31rem;
+}
+
+/* services */
+#service {
+  margin-top: 5rem;
+}
+.icon i {
+  color: #0cb8b6;
+  font-size: 45px;
+  margin-bottom: 25px;
+}
+.service-info {
+  margin-bottom: 20px;
+}
+.icon-info h4 {
+  padding-bottom: 15px;
+}
+.icon-info p {
+  font-size: 15px !important;
+}
+/* end services */
+/* why choose us */
+.service-icon span {
+  color: rgb(58, 77, 241);
+  font-size: 45px;
+  margin-bottom: 25px;
+}
+
+/* doctor team */
+#doctor-team {
+  background-color: rgb(255, 244, 244);
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+.thumbnail {
+  border-radius: 0px;
+  margin-top: 1.5rem;
+}
+.thumbnail img {
+  height: 200px;
+}
+.caption h3 {
+  padding-bottom: 5px;
+}
+.caption p {
+  padding-bottom: 10px;
+}
+/* end doctor team */
+/* book appointment */
+.callaction {
+  padding: 3rem 0rem;
+  border-radius: 4px;
+  border-bottom: 5px solid #f8e5e5;
+}
+.cta-text {
+  margin-top: 10px;
+  text-align: left;
+}
+
+.cta-text h3 {
+  font-weight: 900;
+  line-height: 1.1em;
+  margin-bottom: 20px;
+}
+.cta-btn {
+  float: right;
+  padding: 20px 10px 20px 20px;
+  margin-top: 10px;
+}
+.cta-btn a {
+  background-color: rgb(0, 68, 255);
+  color: white;
+}
+/* / */
+.map img {
+  height: 500px;
+  margin-bottom: 2rem;
+  width: 1100px;
+  margin-left: 13rem;
+  border-radius: 10px;
+}
+.map .underlin {
+  width: 70px;
+  height: 3px;
+
+  background-color: rgb(88, 91, 255);
+  margin-bottom: 2rem;
+  margin-left: 45.2rem;
+}
+.map {
+  background-color: rgb(250, 254, 255);
+  padding-top: 2rem;
+}
+
+/* footer */
+#footer {
+  background: #f7f8f9;
+  color: #45505b;
+  font-size: 14px;
+  text-align: center;
+  padding: 30px 0;
+}
+
+#footer h3 {
+  font-size: 36px;
+  font-weight: 700;
+  position: relative;
+  font-family: "Poppins", sans-serif;
+  padding: 0;
+  margin: 0 0 15px 0;
+}
+
+#footer p {
+  font-size: 15;
+  font-style: italic;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+
+#footer .social-links {
+  margin: 0 0 40px 0;
+}
+
+#footer .social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #0563bb;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#footer .social-links a:hover {
+  background: #0678e3;
+  color: #fff;
+  text-decoration: none;
+}
+
+#footer .copyright {
+  margin: 0 0 5px 0;
+}
+
+#footer .credits {
+  font-size: 13px;
+}
+/* end footer */
