@@ -2,4 +2,4 @@
 
 A custom hospital website template
 
-![alt text](screenshot(17))
+![alt text](Screenshot(17).png)
